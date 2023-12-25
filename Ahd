@@ -19,7 +19,6 @@ contract Storage {
         number = num;
     }
 
-
     /**
      * @dev Return value 
      * @return value of 'number'
